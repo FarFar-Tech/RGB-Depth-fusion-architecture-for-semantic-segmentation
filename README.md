@@ -30,3 +30,7 @@ stride (32,32)
 **Model Summary:**
 
 ![image](https://github.com/user-attachments/assets/7f96d6cc-5d4c-43fd-b2cd-e14be4f7b4b3)
+
+**Model Output Examples:**
+
+![image](https://github.com/user-attachments/assets/5df45677-8696-4371-926c-cce5f303a43e)
